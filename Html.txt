@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WebCraft</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>WebCraft</h1>
+    <p>Crafting beautiful web experiences with HTML, CSS, and JavaScript.</p>
+    <button id="cta-button">Learn More</button>
+  </header>
+
+  <section class="features">
+    <div class="feature-card">
+      <h2>Responsive Design</h2>
+      <p>Looks great on any device with flexible layouts and fluid elements.</p>
+    </div>
+    <div class="feature-card">
+      <h2>Interactive UI</h2>
+      <p>Enhance user experience with dynamic interactions and animations.</p>
+    </div>
+    <div class="feature-card">
+      <h2>Clean Code</h2>
+      <p>Built with modular, maintainable, and semantic code practices.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 WebCraft. Made with ❤️ for the web.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
